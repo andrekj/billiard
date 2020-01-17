@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756792348942",
+    "firebase_url": "https://billiard-booking.firebaseio.com",
+    "project_id": "billiard-booking",
+    "storage_bucket": "billiard-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756792348942:android:129b35a59646f98933875f",
+        "android_client_info": {
+          "package_name": "com.billiard.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756792348942-h1mb6qu680upl1dqe11pfa576lk9j9ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBE3GGZ6cn_S2hZLiJG42j7YoctHOTxnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756792348942-h1mb6qu680upl1dqe11pfa576lk9j9ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
